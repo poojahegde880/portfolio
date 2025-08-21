@@ -116,7 +116,7 @@ export default function App() {
           <a href="https://www.linkedin.com/in/poojahegde14" target="_blank" rel="noreferrer" className="hover:text-teal-300 transition"><Linkedin /></a>
           <a href="mailto:poojahegde880@gmail.com" className="hover:text-teal-300 transition"><Mail /></a>
         </div>
-        <a href="/PoojaHegde_DSI.pdf" download className="mt-8 px-6 py-3 bg-gradient-to-r from-teal-500 to-blue-500 text-white font-semibold rounded-full shadow-lg hover:scale-105 transition relative z-10">
+        <a href="/Pooja_Hegde.pdf" download className="mt-8 px-6 py-3 bg-gradient-to-r from-teal-500 to-blue-500 text-white font-semibold rounded-full shadow-lg hover:scale-105 transition relative z-10">
           📄 Download Resume
         </a>
       </motion.section>
